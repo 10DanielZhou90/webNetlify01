@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    background-color: #b2cd74; /* 將背景顏色設置為 #1F1F1F */
+}
+
+canvas {
+    display: block;
+}
+
+#data {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: rgb(2, 2, 2);
+}
